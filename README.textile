@@ -2,7 +2,7 @@ h1. How to Become a Better Developer
 
 h2. Background
 
-p. _taken from 'CodeKata':http://codekata.pragprog.com/2007/01/code_kata_backg.html_
+p. _taken from "CodeKata":http://codekata.pragprog.com/2007/01/code_kata_backg.html_
 
 p. How do you get to be a great musician? It helps to know the theory, and to understand the mechanics of your instrument. It helps to have talent. But ultimately, greatness comes practicing; applying the theory over and over again, using feedback to get better every time.
 
@@ -23,5 +23,5 @@ p. Fun exercise and it did not take very long.
 
 h2. References and Inspiration
 
-* 'CodeKata':http://codekata.pragprog.com
-* 'Katacasts':http://katas.softwarecraftsmanship.org
+* "CodeKata":http://codekata.pragprog.com
+* "Katacasts":http://katas.softwarecraftsmanship.org
