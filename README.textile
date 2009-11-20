@@ -1,0 +1,27 @@
+h1. How to Become a Better Developer
+
+h2. Background
+
+p. _taken from 'CodeKata':http://codekata.pragprog.com/2007/01/code_kata_backg.html_
+
+p. How do you get to be a great musician? It helps to know the theory, and to understand the mechanics of your instrument. It helps to have talent. But ultimately, greatness comes practicing; applying the theory over and over again, using feedback to get better every time.
+
+p. How do you get to be an All-Star sports person? Obviously fitness and talent help. But the great athletes spend hours and hours every day, practicing.
+
+p. But in the software industry we take developers trained in the theory and throw them straight in to the deep-end, working on a project. It’s like taking a group of fit kids and telling them that they have four quarters to beat the Redskins (hey, we manage by objectives, right?). In software we do our practicing on the job, and that’s why we make mistakes on the job. We need to find ways of splitting the practice from the profession. We need practice sessions.
+
+p. Read "Code Kata"
+
+h2. Notes on katas I have completed
+
+h3. "09_back_to_the_checkout":http://codekata.pragprog.com/2007/01/kata_nine_back_.html
+
+p. This is the first one that I attempted.  I went ahead and did it after "watching the video of":http://katas.softwarecraftsmanship.org/?p=42 "Chris Parsons":http://github.com/chrismdp over on "Katacasts":http://katas.softwarecraftsmanship.org . My solution is obviously heavily influenced by watching the video before my own attempt but it was my immediate desire to re-factor the specs into a single iterated hash that spurred me on to do it in the first place.  I also added in the correct interface to initializing the checkout class as specified in the "original post":http://codekata.pragprog.com/2007/01/kata_nine_back_.html .
+
+p. Fun exercise and it did not take very long.
+
+
+h2. References and Inspiration
+
+* 'CodeKata':http://codekata.pragprog.com
+* 'Katacasts':http://katas.softwarecraftsmanship.org
